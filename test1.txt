@@ -1,5 +1,3 @@
-hi i am piyush saini .
+text is in master 
 
-i am a collage student .
-
-i modified it .
+appended text is in activity1
