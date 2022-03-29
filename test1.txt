@@ -1,0 +1,3 @@
+text is in master 
+
+appended text is in activity1
